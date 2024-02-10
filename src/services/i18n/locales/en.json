@@ -1,0 +1,13 @@
+{
+  "file": {
+    "firstName": "Имя:",
+    "lastName": "Фамилия:",
+    "birthDate": "Дата рождения:",
+    "birthPlace": "Место рождения:",
+    "family": "Клан:",
+    "specialSkill": "Особые навыки:",
+    "infoFromInformer": "Сведения от информатора:",
+    "specialTask": "Специальная миссия:",
+    "biography": "Биография:"
+  }
+}
