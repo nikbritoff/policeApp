@@ -18,6 +18,7 @@ i18n
             "birthDate": "Дата рождения:",
             "birthPlace": "Место рождения:",
             "family": "Клан:",
+            "role": "Роль:",
             "specialSkill": "Особые навыки:",
             "infoFromInformer": "Сведения от информатора:",
             "specialTask": "Специальная миссия:",
